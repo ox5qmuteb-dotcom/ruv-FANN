@@ -1,4 +1,4 @@
-# ruv-FANN: The Neural Intelligence Framework 🧠
+# I : The Neural Intelligence Framework 🧠
 
 [![Crates.io](https://img.shields.io/crates/v/ruv-fann.svg)](https://crates.io/crates/ruv-fann)
 [![Documentation](https://docs.rs/ruv-fann/badge.svg)](https://docs.rs/ruv-fann)
